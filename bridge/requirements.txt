@@ -1,0 +1,3 @@
+instagrapi>=2.0,<3
+Pillow>=9
+PySocks>=1.7
